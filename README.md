@@ -17,7 +17,7 @@ MediCare is an Android application designed to enhance user interaction with med
 - **Coil for image loading**
 - **AndroidX Activity Result API**
 - **FileProvider for secure file sharing**
-- **TensorFlow Lite (Planned for Image Analysis)**
+- **TensorFlow Lite (Planned for Image Detection and Analysis)**
 - **ARCore (Planned for AR Integration)**
 
 ## Installation
