@@ -1,4 +1,4 @@
-# MediCare - Android App
+# AMediCare - Android App
 
 ## Overview
 MediCare is an Android application designed to enhance user interaction with medical devices using Augmented Reality (AR). The app allows users to capture or select images for analysis and view the results in an AR interface. It is built with Jetpack Compose for UI design and integrates camera and gallery functionalities.
