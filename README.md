@@ -65,4 +65,4 @@ MediCare/
 This project is licensed under the **MIT License**.
 
 ## Author
-Developed by **Zubin Patnaik**.
+Developed by **Bot Coders**.
