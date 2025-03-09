@@ -13,7 +13,7 @@ MediCare is an Android application designed to enhance user interaction with med
 ## Tech Stack
 - **Kotlin**
 - **Jetpack Compose**
-- **Material 3 Design**
+- **Material 3D Design**
 - **Coil for image loading**
 - **AndroidX Activity Result API**
 - **FileProvider for secure file sharing**
